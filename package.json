@@ -1,7 +1,13 @@
 {
   "name": "jan-template",
-  "version": "0.1.0",
-  "private": true,
+  "version": "0.0.1",
+  "author": "Jan Mallari <mallari.janlester@gmail.com>",
+  "description": "A Next.JS starter pack made by Jan Mallari",
+  "private": false,
+  "engineStrict": true,
+  "engines": {
+    "node": ">= 16.0.0"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
